@@ -1,7 +1,8 @@
 repo_name: prettyleka/Selenium-Happyness
 report_id: bedbf956bbf02695b3843f967504ed30
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-11T05:32:36+00:00'
+timestamp: '2024-01-05T08:51:54+00:00'
 requested_by: prettyleka
 provider: github
 branch: master
@@ -17,7 +18,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6755/2c45151a4a11d3a3c8e71bb34dd069d6_400x400.png
-  detection_source_url: NessHappyNess.csproj
+  detection_source_url: https://github.com/prettyleka/Selenium-Happyness/blob/master/NessHappyNess.csproj
   detection_source: NessHappyNess.csproj
   last_updated_by: Valeria Basov
   last_updated_on: 2020-02-09 14:53:13.000000000 Z
@@ -30,6 +31,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png
+  detection_source_url: https://github.com/prettyleka/Selenium-Happyness
   detection_source: Repo Metadata
 - name: ".NET"
   description: A free, cross-platform, open source developer platform for building
@@ -41,6 +43,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/prettyleka/Selenium-Happyness/blob/master/packages.config
   detection_source: packages.config
   last_updated_by: Valeria Basov
   last_updated_on: 2020-02-09 14:53:13.000000000 Z
@@ -52,6 +55,7 @@ tools:
   category: Data Stores
   sub_category: Databases
   image_url: https://img.stackshare.io/service/1030/leaf-360x360.png
+  detection_source_url: https://github.com/prettyleka/Selenium-Happyness/blob/master/packages.config
   detection_source: packages.config
   last_updated_by: Valeria Basov
   last_updated_on: 2020-02-09 14:53:13.000000000 Z
@@ -63,6 +67,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/prettyleka/Selenium-Happyness
   detection_source: Repo Metadata
 - name: NuGet
   description: The package manager for .NET
@@ -72,6 +77,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/prettyleka/Selenium-Happyness/blob/master/packages.config
   detection_source: packages.config
   last_updated_by: Valeria Basov
   last_updated_on: 2020-02-09 14:53:13.000000000 Z
@@ -84,6 +90,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Browser Testing
   image_url: https://img.stackshare.io/service/1517/sbUizSli_400x400.jpg
+  detection_source_url: https://github.com/prettyleka/Selenium-Happyness/blob/master/packages.config
   detection_source: packages.config
   last_updated_by: Valeria Basov
   last_updated_on: 2020-02-09 14:53:13.000000000 Z
@@ -96,6 +103,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Integrated Development Environment
   image_url: https://img.stackshare.io/service/1451/SR2hUhQN.png
+  detection_source_url: https://github.com/prettyleka/Selenium-Happyness/blob/master/NessHappyNess.sln
   detection_source: NessHappyNess.sln
   last_updated_by: Valeria Basov
   last_updated_on: 2020-02-09 14:53:13.000000000 Z
@@ -110,7 +118,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/15401/default_2d3a54fb471e8215ac08e1a9313c21a7a69a9e8b.png
-  detection_source_url: packages.config
+  detection_source_url: https://github.com/prettyleka/Selenium-Happyness/blob/master/packages.config
   detection_source: packages.config
   last_updated_by: Valeria Basov
   last_updated_on: 2020-02-09 14:53:13.000000000 Z
@@ -124,7 +132,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13142/default_a057bdad489be3cb053d372a68695da4ac94962d.png
-  detection_source_url: packages.config
+  detection_source_url: https://github.com/prettyleka/Selenium-Happyness/blob/master/packages.config
   detection_source: packages.config
   last_updated_by: Valeria Basov
   last_updated_on: 2020-02-09 14:53:13.000000000 Z
@@ -138,7 +146,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12930/default_f8bf1110f8f0beaf5fae35865de7f77ccd1139f0.png
-  detection_source_url: packages.config
+  detection_source_url: https://github.com/prettyleka/Selenium-Happyness/blob/master/packages.config
   detection_source: packages.config
   last_updated_by: Valeria Basov
   last_updated_on: 2020-02-09 14:53:13.000000000 Z
@@ -151,7 +159,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13027/default_79c0a8d9add56bcf90325ea0ad034f66b38d8dd7.png
-  detection_source_url: packages.config
+  detection_source_url: https://github.com/prettyleka/Selenium-Happyness/blob/master/packages.config
   detection_source: packages.config
   last_updated_by: Valeria Basov
   last_updated_on: 2020-02-09 14:53:13.000000000 Z
@@ -164,7 +172,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12892/default_f3b66025ae87cade251c16c8d9e166b0f1df9597.png
-  detection_source_url: packages.config
+  detection_source_url: https://github.com/prettyleka/Selenium-Happyness/blob/master/packages.config
   detection_source: packages.config
   last_updated_by: Valeria Basov
   last_updated_on: 2020-02-09 14:53:13.000000000 Z
@@ -184,7 +192,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13134/default_048f7c1081704627a12b8b5e168cfdbc9f28fb33.png
-  detection_source_url: packages.config
+  detection_source_url: https://github.com/prettyleka/Selenium-Happyness/blob/master/packages.config
   detection_source: packages.config
   last_updated_by: Valeria Basov
   last_updated_on: 2020-02-09 14:53:13.000000000 Z
@@ -198,13 +206,19 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/nuget/image.png
-  detection_source_url: packages.config
+  detection_source_url: https://github.com/prettyleka/Selenium-Happyness/blob/master/packages.config
   detection_source: packages.config
   last_updated_by: Valeria Basov
   last_updated_on: 2020-02-09 14:53:13.000000000 Z
   vulnerabilities:
-  - name: Improper Handling of Exceptional Conditions in Newtonsoft.Json
+  - name: 'Duplicate Advisory: Improper Handling of Exceptional Conditions in Newtonsoft.Json'
     cve_id: 
+    cve_url: https://github.com/advisories/GHSA-8rfx-6mr3-5jh3
+    detected_date: Jan 4
+    severity: high
+    first_patched: 13.0.1
+  - name: Improper Handling of Exceptional Conditions in Newtonsoft.Json
+    cve_id: CVE-2024-21907
     cve_url: https://github.com/advisories/GHSA-5crp-9r3c-p9vr
     detected_date: Jun 23
     severity: high
@@ -219,7 +233,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13114/default_7730aba6df4478f4dfdede17ef73dd29c3d5f711.png
-  detection_source_url: packages.config
+  detection_source_url: https://github.com/prettyleka/Selenium-Happyness/blob/master/packages.config
   detection_source: packages.config
   last_updated_by: Valeria Basov
   last_updated_on: 2020-02-09 14:53:13.000000000 Z
@@ -240,7 +254,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13673/default_caea7bad7b4a139d311b2e539aca8e744ed730e5.png
-  detection_source_url: packages.config
+  detection_source_url: https://github.com/prettyleka/Selenium-Happyness/blob/master/packages.config
   detection_source: packages.config
   last_updated_by: Valeria Basov
   last_updated_on: 2020-02-09 14:53:13.000000000 Z
@@ -255,7 +269,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12976/default_c33fee4544dbdcb376300222dc5e214ee63f7ce9.png
-  detection_source_url: packages.config
+  detection_source_url: https://github.com/prettyleka/Selenium-Happyness/blob/master/packages.config
   detection_source: packages.config
   last_updated_by: Valeria Basov
   last_updated_on: 2020-02-09 14:53:13.000000000 Z
@@ -270,7 +284,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13570/default_b3a9fa7efbcc92b2b6d42b9fa9afd23454bef416.png
-  detection_source_url: packages.config
+  detection_source_url: https://github.com/prettyleka/Selenium-Happyness/blob/master/packages.config
   detection_source: packages.config
   last_updated_by: Valeria Basov
   last_updated_on: 2020-02-09 14:53:13.000000000 Z
@@ -284,7 +298,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13038/default_a0b0eac5a401515996bd8fc359ffcfbc844cbe90.png
-  detection_source_url: packages.config
+  detection_source_url: https://github.com/prettyleka/Selenium-Happyness/blob/master/packages.config
   detection_source: packages.config
   last_updated_by: Valeria Basov
   last_updated_on: 2020-02-09 14:53:13.000000000 Z
@@ -298,7 +312,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12897/default_d56a77cbb06d3dae6daef9669108e3e01d2494af.png
-  detection_source_url: packages.config
+  detection_source_url: https://github.com/prettyleka/Selenium-Happyness/blob/master/packages.config
   detection_source: packages.config
   last_updated_by: Valeria Basov
   last_updated_on: 2020-02-09 14:53:13.000000000 Z
@@ -311,7 +325,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12960/default_cd4457378b2b3dee674f43707df49edfbc5c04e5.png
-  detection_source_url: packages.config
+  detection_source_url: https://github.com/prettyleka/Selenium-Happyness/blob/master/packages.config
   detection_source: packages.config
   last_updated_by: Valeria Basov
   last_updated_on: 2020-02-09 14:53:13.000000000 Z
@@ -326,7 +340,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13424/default_28ec91c56002f51d14f4dbb46d11dcb2fb54bb56.png
-  detection_source_url: packages.config
+  detection_source_url: https://github.com/prettyleka/Selenium-Happyness/blob/master/packages.config
   detection_source: packages.config
   last_updated_by: Valeria Basov
   last_updated_on: 2020-02-09 14:53:13.000000000 Z
@@ -340,7 +354,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13182/default_7bf60c4b32af3c8741e8825972e95cdf35308a6a.png
-  detection_source_url: packages.config
+  detection_source_url: https://github.com/prettyleka/Selenium-Happyness/blob/master/packages.config
   detection_source: packages.config
   last_updated_by: Valeria Basov
   last_updated_on: 2020-02-09 14:53:13.000000000 Z
@@ -355,7 +369,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13048/default_1b8be57b16f1f491c0e5f67e5d1021f4df68ea30.png
-  detection_source_url: packages.config
+  detection_source_url: https://github.com/prettyleka/Selenium-Happyness/blob/master/packages.config
   detection_source: packages.config
   last_updated_by: Valeria Basov
   last_updated_on: 2020-02-09 14:53:13.000000000 Z
