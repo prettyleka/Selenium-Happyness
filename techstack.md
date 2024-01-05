@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 prettyleka/Selenium-Happyness is built on the following main stack:
+
 - [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
 - [C#](http://csharp.net) – Languages
 - [MongoDB](http://www.mongodb.com/) – Databases
@@ -10,11 +11,13 @@ prettyleka/Selenium-Happyness is built on the following main stack:
 - [ASP.NET](https://www.asp.net/) – Languages
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 prettyleka/Selenium-Happyness is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/1014/IoPy1dce_400x400.png' alt='.NET'/> [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
 - <img width='25' height='25' src='https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png' alt='C#'/> [C#](http://csharp.net) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1030/leaf-360x360.png' alt='MongoDB'/> [MongoDB](http://www.mongodb.com/) – Databases
@@ -23,14 +26,15 @@ prettyleka/Selenium-Happyness is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/6755/2c45151a4a11d3a3c8e71bb34dd069d6_400x400.png' alt='ASP.NET'/> [ASP.NET](https://www.asp.net/) – Languages
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [prettyleka/Selenium-Happyness](https://github.com/prettyleka/Selenium-Happyness)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|25<br/>Tools used|11/11/23 <br/>Report generated|
+|25<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -131,7 +135,7 @@ Full tech stack [here](/techstack.md)
 |[MongoDB.Bson](https://www.nuget.org/MongoDB.Bson)|v2.10.1|02/09/20|Valeria Basov |N/A|N/A|
 |[MongoDB.Driver](https://www.nuget.org/MongoDB.Driver)|v2.10.1|02/09/20|Valeria Basov |N/A|[CVE-2022-48282](https://github.com/advisories/GHSA-7j9m-j397-g4wx) (High)|
 |[MongoDB.Driver.Core](https://www.nuget.org/MongoDB.Driver.Core)|v2.10.1|02/09/20|Valeria Basov |N/A|N/A|
-|[Newtonsoft.Json](https://www.nuget.org/Newtonsoft.Json)|v12.0.3|02/09/20|Valeria Basov |MIT|[](https://github.com/advisories/GHSA-5crp-9r3c-p9vr) (High)|
+|[Newtonsoft.Json](https://www.nuget.org/Newtonsoft.Json)|v12.0.3|02/09/20|Valeria Basov |MIT|[](https://github.com/advisories/GHSA-8rfx-6mr3-5jh3) (High)<br/>[CVE-2024-21907](https://github.com/advisories/GHSA-5crp-9r3c-p9vr) (High)|
 |[RazorEngine](https://www.nuget.org/RazorEngine)|v3.10.0|02/09/20|Valeria Basov |Apache-2.0|[CVE-2021-46703](https://github.com/advisories/GHSA-ph3v-2hq5-5qfq) (Moderate)|
 |[Selenium.Chrome.WebDriver](https://www.nuget.org/Selenium.Chrome.WebDriver)|v79.0.0|02/09/20|Valeria Basov |Unlicense|N/A|
 |[Selenium.WebDriver](https://www.nuget.org/Selenium.WebDriver)|v3.141.0|02/09/20|Valeria Basov |Apache-2.0|N/A|
@@ -146,4 +150,4 @@ Full tech stack [here](/techstack.md)
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
